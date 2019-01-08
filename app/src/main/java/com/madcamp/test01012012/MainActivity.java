@@ -8,6 +8,9 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 
+import com.madcamp.test01012012.fragment.Fragment1;
+import com.madcamp.test01012012.fragment.Fragment2;
+
 public class MainActivity extends AppCompatActivity {
 
     Toolbar toolbar;
